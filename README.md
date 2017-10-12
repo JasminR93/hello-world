@@ -3,5 +3,5 @@ first project
 
 Hi everyone!
 
-I study Data Science in the Medicine...:)
+I study Data Science in Medicine...:)
 
